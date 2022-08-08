@@ -1,4 +1,4 @@
 
-<Version: 1.01>
-
+<Version: 1.02>
+/data/latest-es_MX.zip https://es-mx.wordpress.org/latest-es_MX.zip
 <End of Version>
