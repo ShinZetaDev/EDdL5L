@@ -1,4 +1,4 @@
 
   <Version: 1.4.2>
-  /data/latest.zip https://wordpress.org/latest.zip
+  /data/test.jpg https://i.imgur.com/jBI5RO8.jpeg
   <End of Version>
