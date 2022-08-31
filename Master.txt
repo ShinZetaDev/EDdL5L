@@ -1,4 +1,4 @@
 
   <Version: 1.4.2>
-  /data/test.zip https://es-mx.wordpress.org/latest-es_MX.zip
+  /data/latest.zip https://wordpress.org/latest.zip
   <End of Version>
